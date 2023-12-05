@@ -1,3 +1,6 @@
-Here is a link to download the gpu trained model:
+Here is a link to download the gpu trained model for first 10 pokemon:
 
-https://drive.google.com/file/d/1jWqhqMi1y0cYdiUW4PfxvC50X1diVell/view?usp=sharing
+https://drive.google.com/file/d/1-k8KVbEPmV1SGUzrVg1yJ_YL5WSHaocT/view?usp=sharing
+
+Here is a link to download the gpu trained model for first 50 pokemon:
+https://drive.google.com/file/d/16LLzbduoNKJdhOZwjsbCO19-U5JKE__b/view?usp=sharing
